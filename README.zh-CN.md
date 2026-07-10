@@ -17,7 +17,7 @@
 ## 🚀 安装（`npx skills add`）
 
 ```bash
-npx skills add SweetPomelo0/ai-title-generator
+npx skills add HeyClioo/ai-title-generator
 ```
 
 兼容 **Claude Code / Codex / Gemini CLI / GitHub Copilot** 等 skills 生态的 agent。
